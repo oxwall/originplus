@@ -2930,18 +2930,16 @@ html[xmlns] .ow_main_menu.clearfix {
 
 /* ---- Button List styles ---- */
 
-ul.ow_bl{
+.ow_bl{
     padding: 0;
 }
 
-ul.ow_bl li{
-    float: right;
+.ow_bl li{
 	list-style: none;
     margin-left: 4px;
-    margin-bottom: 4px;
 }
 
-ul.ow_bl a{
+.ow_bl a{
     display: block;
 	background: url(images/btnl_bg.png) repeat-x center left;
     border-radius: 2px;
@@ -2956,7 +2954,7 @@ ul.ow_bl a{
 	font-size: 11px;
 }
 
-ul.ow_bl a:hover {
+.ow_bl a:hover {
     border-color: #e0e0e0;
 }
 
