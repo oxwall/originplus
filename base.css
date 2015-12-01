@@ -3096,6 +3096,7 @@ html[xmlns] .ow_paging.clearfix {
     src: url(images/Ubuntu-B-webfont.eot);
     src: url(images/Ubuntu-B-webfont.eot?#iefix) format('embedded-opentype'),
          url(images/Ubuntu-B-webfont.woff) format('woff'),
+         url(images/Ubuntu-B-webfont.woff2) format('woff2'),
          url(images/Ubuntu-B-webfont.ttf) format('truetype'),
          url(images/Ubuntu-B-webfont.svg#UbuntuBold) format('svg');
     font-weight: normal;
